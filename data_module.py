@@ -1,8 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#Change for testing
-
 df = pd.read_csv('data/HighSchools.csv')
 
 
@@ -20,7 +18,8 @@ else:
 
 
     
-x = df['Schools']
-y = df['Success Rate(%)']
+#x = df['Schools']
+#y = df['Success Rate(%)']
 
-plt.figure
+#graph = plt.figure
+#print(graph)
