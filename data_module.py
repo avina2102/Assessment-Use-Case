@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('data/HighSchools.csv')
 print(df)
-
+    
 #x = df['Schools']
 #y = df['Success Rate(%)']
 
