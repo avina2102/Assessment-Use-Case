@@ -39,7 +39,6 @@ def get_range(student):
     else:
         return "0-10"
 
-# student = int(input("What is the average of your results in school (%) ? "))
 student_range = get_range(student)
 
 print("Your range is:", student_range)
