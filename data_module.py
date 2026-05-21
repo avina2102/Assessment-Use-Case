@@ -57,6 +57,7 @@ plt.title(f"Schools for range {student_range}")
 plt.yticks(fontsize=4)
 plt.show()
 
+print("Those are the most suitable and recommended schools for you based on your capability. ")
 print("See you next time! ")
 
 

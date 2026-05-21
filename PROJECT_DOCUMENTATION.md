@@ -20,6 +20,16 @@
 6. The schools are divided into 10 tiers based on their performance and each tier represents scores in 10% intervals
 7. The program is successful and has acheived what is was made to
 
+Data Dictionary:
+![1779350841681](image/PROJECT_DOCUMENTATION/1779350841681.png)
+
+https://schoolsnsw-my.sharepoint.com/:x:/r/personal/avina_venati_education_nsw_gov_au/Documents/data%20dictionary.xlsx?d=w125cde3317024a48b159d31fdc65a1e8&csf=1&web=1&e=gAmEcO
+
+>SEEL Paragraph:
+Many primary school students are missing out on schools that they could have gone to if they had more information regarding this topic. For example, a student could have gone to a much more suitable school for them but has settled at a different school. This is a missed opportunity that would have benefit them greatly. Without knowledge about these schools students would miss out on many occasions that would have favoured them. 
+
+>Peer Evaluation PMI Table
+
 >Flowchart:
 ![alt text](image-2.png)
 
@@ -37,13 +47,17 @@ Pandas Dataframes: Output clean, filtered tabular data for selected schools
 
 Data Visualisation: Generate a horizontal bar chart (plt.barh) using matplotlib.pyplot to show individual school comparisons.
 
-Data Reporting:
-A list of recommended schools and a visual graph based on the student's marks will be generated, and the final dataset will be saved as a .csv file, which keeps the data organized in rows and columns for easy opening in Excel.
+Data Reporting: A list of recommended schools and a visual graph based on the student's marks will be generated, and the final dataset will be saved as a .csv file, which keeps the data organized in rows and columns for easy opening in Excel.
 
->Testing and Evaluation:
-Peer Evaluation PMI Table:
+>Test Evaluation:
+Peer Review PMI Table:
+![1779346912540](image/PROJECT_DOCUMENTATION/1779346912540.png)
 
+https://canva.link/8hasjgz3owwopfq
 
-Bibliography:
+Personal Evaluation:
+I believe that I have ticked off all the requirements needed for this assessment task and that they can all be found within this folder. Based on peer feedback I could have done better in creating the program interact with the users more but overall the program works well doing what it was supposed to. I was a little short on time in terms of project management but towards the end my project became less stressful and was completed. In terms of data, everything was accurate, valid and timely. It is not biased whatsoever, and the security does not need to be improved. The user experience can be made made more accesible by maybe not only targeted at students and even parents so that they can access the information for their child. This is how I feel about my project overall.
+
+>Bibliography:
 https://www.matrix.edu.au/2025-high-school-rankings/
 
