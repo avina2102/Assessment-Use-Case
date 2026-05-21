@@ -4,7 +4,7 @@ from string import ascii_letters, digits
 
 #Loading CSV
 
-data = pd.read_csv("Data Spreadsheet.csv",encoding="latin-1")
+data = pd.read_csv("Data Spreadsheet.csv",encoding='latin-1')
 
 while True:
     login = input("Student Login ID (only alphabet, no spaces): ")
@@ -54,6 +54,7 @@ plt.barh(
 plt.xlabel("Percentage")
 plt.ylabel("Schools")
 plt.title(f"Schools for range {student_range}")
+plt.gca().invert_yaxis()
 plt.yticks(fontsize=4)
 plt.show()
 

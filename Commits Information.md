@@ -44,4 +44,6 @@ Testing and Evaluation Created - I created a section for my testing and evaluati
 
 PMI Table Adition - I added my PMI Table into the Project Documentation file.
 
-Final Commit - I created my data dictionary and I added it to the main task folder. I also added a personal evaluation in the testing and evaluating section of my project documentation and I finished writing my final commits.
+Final Changes - I created my data dictionary and I added it to the main task folder. I also added a personal evaluation in the testing and evaluating section of my project documentation and I finished writing my final commits.
+
+Final Commit - Just final commit after final changes.
