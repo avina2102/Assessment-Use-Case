@@ -51,7 +51,7 @@ plt.barh(
     filtered_data["Success Rate (%)"]
 )
 
-plt.xlabel("Percentage")
+plt.xlabel("Success Rate (%)")
 plt.ylabel("Schools")
 plt.title(f"Schools for range {student_range}")
 plt.gca().invert_yaxis()
